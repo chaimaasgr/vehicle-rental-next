@@ -1,0 +1,254 @@
+[
+  {
+    "id": "v-001",
+    "brand": "Renault",
+    "model": "Clio V",
+    "category": "economique",
+    "pricePerDay": 29,
+    "seats": 5,
+    "transmission": "manuelle",
+    "available": true,
+    "images": [
+      "/images/vehicules/v-001/clio_v.jpg"
+      
+    ],
+    "description": "Citadine compacte et sobre, idéale pour la ville et les trajets courts. Faible consommation et facilité de stationnement.",
+    "features": [
+      "Climatisation",
+      "Bluetooth",
+      "Régulateur de vitesse",
+      "5 portes"
+    ],
+    "featured": true
+  },
+  {
+    "id": "v-002",
+    "brand": "Peugeot",
+    "model": "208",
+    "category": "economique",
+    "pricePerDay": 31,
+    "seats": 5,
+    "transmission": "automatique",
+    "available": true,
+    "images": [
+      "/images/vehicules/v-002/peug.jpg"
+    ],
+    "description": "Citadine moderne au look affirmé, disponible en boîte automatique pour plus de confort au quotidien.",
+    "features": [
+      "Climatisation automatique",
+      "Écran tactile",
+      "Caméra de recul",
+      "Apple CarPlay"
+    ]
+  },
+  {
+    "id": "v-003",
+    "brand": "Volkswagen",
+    "model": "Tiguan",
+    "category": "suv",
+    "pricePerDay": 62,
+    "seats": 5,
+    "transmission": "automatique",
+    "available": true,
+    "images": [
+      "/images/vehicules/v-003/vw-tiguan-2024.jpg"
+    ],
+    "description": "SUV familial spacieux et confortable, parfait pour les longs trajets et les vacances en famille.",
+    "features": [
+      "4 roues motrices",
+      "Toit panoramique",
+      "Sièges chauffants",
+      "Coffre 615L"
+    ],
+    "featured": true
+  },
+  {
+    "id": "v-004",
+    "brand": "Dacia",
+    "model": "Duster",
+    "category": "suv",
+    "pricePerDay": 48,
+    "seats": 5,
+    "transmission": "manuelle",
+    "available": true,
+    "images": [
+   "/images/vehicules/v-004/dacia-duster.jpg"
+    ],
+    "description": "SUV robuste et polyvalent au meilleur rapport qualité-prix, adapté à tous les terrains.",
+    "features": [
+      "Garde au sol élevée",
+      "Climatisation",
+      "Barres de toit",
+      "Régulateur de vitesse"
+    ]
+  },
+  {
+    "id": "v-005",
+    "brand": "Mercedes-Benz",
+    "model": "Classe E",
+    "category": "premium",
+    "pricePerDay": 129,
+    "seats": 5,
+    "transmission": "automatique",
+    "available": true,
+    "images": [
+      "/images/vehicules/v-005/Mercedes.jpg"
+    ],
+    "description": "Berline haut de gamme alliant confort, prestige et technologies de conduite avancées.",
+    "features": [
+      "Sièges cuir",
+      "Assistant de conduite",
+      "Système audio Burmester",
+      "Toit ouvrant"
+    ],
+    "featured": true
+  },
+  {
+    "id": "v-006",
+    "brand": "BMW",
+    "model": "Série 4 Cabriolet",
+    "category": "premium",
+    "pricePerDay": 145,
+    "seats": 4,
+    "transmission": "automatique",
+    "available": false,
+    "images": [
+      "/images/vehicules/v-006/1.jpg",
+      "/images/vehicules/v-006/2.jpg"
+    ],
+    "description": "Cabriolet élégant pour une expérience de conduite sportive et raffinée. Disponibilité limitée en saison.",
+    "features": [
+      "Toit rétractable",
+      "Sièges sport",
+      "Navigation intégrée",
+      "Mode Sport"
+    ]
+  },
+  {
+    "id": "v-007",
+    "brand": "Fiat",
+    "model": "Ducato",
+    "category": "utilitaire",
+    "pricePerDay": 58,
+    "seats": 3,
+    "transmission": "manuelle",
+    "available": true,
+    "images": [
+      "/images/vehicules/v-007/1.jpg",
+      "/images/vehicules/v-007/2.jpg"
+    ],
+    "description": "Fourgon utilitaire spacieux, adapté aux déménagements et au transport de marchandises.",
+    "features": [
+      "Volume de chargement 10m³",
+      "Caméra de recul",
+      "Aide au stationnement",
+      "Charge utile 1200kg"
+    ]
+  },
+  {
+    "id": "v-008",
+    "brand": "Renault",
+    "model": "Trafic",
+    "category": "utilitaire",
+    "pricePerDay": 54,
+    "seats": 6,
+    "transmission": "manuelle",
+    "available": true,
+    "images": [
+      "/images/vehicules/v-008/1.jpg",
+      "/images/vehicules/v-008/2.jpg"
+    ],
+    "description": "Fourgon mixte polyvalent, idéal pour le transport de matériel et de personnel.",
+    "features": [
+      "6 places",
+      "Cloison de séparation",
+      "Régulateur de vitesse",
+      "Prise 12V"
+    ]
+  },
+  {
+    "id": "v-009",
+    "brand": "Toyota",
+    "model": "Yaris Hybride",
+    "category": "economique",
+    "pricePerDay": 34,
+    "seats": 5,
+    "transmission": "automatique",
+    "available": true,
+    "images": [
+      "/images/vehicules/v-009/1.jpg",
+      "/images/vehicules/v-009/2.jpg"
+    ],
+    "description": "Citadine hybride économique en carburant, agréable à conduire en ville comme sur route.",
+    "features": [
+      "Motorisation hybride",
+      "Climatisation",
+      "Écran 8 pouces",
+      "Aide au maintien de voie"
+    ]
+  },
+  {
+    "id": "v-010",
+    "brand": "Audi",
+    "model": "Q5",
+    "category": "suv",
+    "pricePerDay": 89,
+    "seats": 5,
+    "transmission": "automatique",
+    "available": true,
+    "images": [
+      "/images/vehicules/v-010/1.jpg",
+      "/images/vehicules/v-010/2.jpg"
+    ],
+    "description": "SUV premium quattro, confort de conduite et finitions soignées pour tous vos déplacements.",
+    "features": [
+      "Quattro 4x4",
+      "Sièges cuir",
+      "Hayon électrique",
+      "Virtual Cockpit"
+    ],
+    "featured": true
+  },
+  {
+    "id": "v-011",
+    "brand": "Citroën",
+    "model": "C3",
+    "category": "economique",
+    "pricePerDay": 27,
+    "seats": 5,
+    "transmission": "manuelle",
+    "available": true,
+    "images": [
+      "/images/vehicules/v-011/1.jpg",
+      "/images/vehicules/v-011/2.jpg"
+    ],
+    "description": "Citadine confortable avec suspensions à butées hydrauliques progressives pour un confort optimal.",
+    "features": [
+      "Climatisation",
+      "Bluetooth",
+      "ColorPop personnalisable",
+      "Aide au stationnement"
+    ]
+  },
+  {
+    "id": "v-012",
+    "brand": "Porsche",
+    "model": "Macan",
+    "category": "premium",
+    "pricePerDay": 179,
+    "seats": 5,
+    "transmission": "automatique",
+    "available": true,
+    "images": [
+      "/images/vehicules/v-012/1.jpg",
+      "/images/vehicules/v-012/2.jpg"
+    ],
+    "description": "SUV sportif au tempérament racé, pour une expérience de conduite haut de gamme.",
+    "features": [
+      "Châssis sport PASM",
+      "Sièges sport Alcantara",
+      "Système audio Bose",
+      "Mode Sport+"
+    ]
+  }
+]

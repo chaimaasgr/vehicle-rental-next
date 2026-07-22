@@ -1,0 +1,37 @@
+[
+  {
+    "id": "opt-assurance",
+    "name": "Assurance tous risques",
+    "description": "Couverture complète incluant dommages, vol et bris de glace, sans franchise.",
+    "pricePerDay": 12,
+    "icon": "shield"
+  },
+  {
+    "id": "opt-gps",
+    "name": "GPS",
+    "description": "Système de navigation embarqué avec cartes à jour et alertes trafic en temps réel.",
+    "pricePerDay": 5,
+    "icon": "map-pin"
+  },
+  {
+    "id": "opt-siege-bebe",
+    "name": "Siège bébé",
+    "description": "Siège auto homologué pour enfant, installation gratuite à la prise en charge du véhicule.",
+    "pricePerDay": 4,
+    "icon": "baby"
+  },
+  {
+    "id": "opt-conducteur",
+    "name": "Conducteur additionnel",
+    "description": "Ajoutez un second conducteur autorisé sur le contrat de location.",
+    "pricePerDay": 6,
+    "icon": "user-plus"
+  },
+  {
+    "id": "opt-km-illimite",
+    "name": "Kilométrage illimité",
+    "description": "Roulez sans limite de distance pendant toute la durée de votre location.",
+    "pricePerDay": 9,
+    "icon": "infinity"
+  }
+]
