@@ -113,8 +113,7 @@
     "transmission": "automatique",
     "available": false,
     "images": [
-      "/images/vehicules/v-006/1.jpg",
-      "/images/vehicules/v-006/2.jpg"
+    "/images/vehicules/v-006/cabriolet.jpg"
     ],
     "description": "Cabriolet élégant pour une expérience de conduite sportive et raffinée. Disponibilité limitée en saison.",
     "features": [
@@ -134,8 +133,8 @@
     "transmission": "manuelle",
     "available": true,
     "images": [
-      "/images/vehicules/v-007/1.jpg",
-      "/images/vehicules/v-007/2.jpg"
+        "/images/vehicules/v-007/Ducato.jpg"
+
     ],
     "description": "Fourgon utilitaire spacieux, adapté aux déménagements et au transport de marchandises.",
     "features": [
@@ -155,8 +154,7 @@
     "transmission": "manuelle",
     "available": true,
     "images": [
-      "/images/vehicules/v-008/1.jpg",
-      "/images/vehicules/v-008/2.jpg"
+      "/images/vehicules/v-008/Trafic.webp"
     ],
     "description": "Fourgon mixte polyvalent, idéal pour le transport de matériel et de personnel.",
     "features": [
@@ -176,8 +174,7 @@
     "transmission": "automatique",
     "available": true,
     "images": [
-      "/images/vehicules/v-009/1.jpg",
-      "/images/vehicules/v-009/2.jpg"
+       "/images/vehicules/v-009/R.jfif"
     ],
     "description": "Citadine hybride économique en carburant, agréable à conduire en ville comme sur route.",
     "features": [
@@ -197,8 +194,7 @@
     "transmission": "automatique",
     "available": true,
     "images": [
-      "/images/vehicules/v-010/1.jpg",
-      "/images/vehicules/v-010/2.jpg"
+    "/images/vehicules/v-010/Q8.avif"
     ],
     "description": "SUV premium quattro, confort de conduite et finitions soignées pour tous vos déplacements.",
     "features": [
@@ -219,8 +215,7 @@
     "transmission": "manuelle",
     "available": true,
     "images": [
-      "/images/vehicules/v-011/1.jpg",
-      "/images/vehicules/v-011/2.jpg"
+        "/images/vehicules/v-011/citroen.webp"
     ],
     "description": "Citadine confortable avec suspensions à butées hydrauliques progressives pour un confort optimal.",
     "features": [
@@ -240,8 +235,7 @@
     "transmission": "automatique",
     "available": true,
     "images": [
-      "/images/vehicules/v-012/1.jpg",
-      "/images/vehicules/v-012/2.jpg"
+       "/images/vehicules/v-012/Macan.jpg"
     ],
     "description": "SUV sportif au tempérament racé, pour une expérience de conduite haut de gamme.",
     "features": [
