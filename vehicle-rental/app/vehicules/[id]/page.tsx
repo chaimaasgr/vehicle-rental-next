@@ -1,10 +1,10 @@
-import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { dataProvider } from "@/lib/data-provider";
 import { formatPrice } from "@/lib/pricing";
 import { CategoryBadge } from "@/components/CategoryBadge";
 import { AvailabilityBadge } from "@/components/AvailabilityBadge";
+import { VehicleGallery } from "@/components/VehicleGallery";
 import { IconSeat, IconGear, IconCheck, OPTION_ICONS, IconShield } from "@/components/icons";
 
 export async function generateStaticParams() {
@@ -32,36 +32,10 @@ export default async function VehicleDetailPage({
       </Link>
 
       <div className="mt-6 grid gap-10 lg:grid-cols-2">
-        <div>
-          <div className="relative aspect-[16/10] overflow-hidden rounded-xl2 bg-asphalt-100 shadow-card">
-            <Image
-              src={vehicle.images[0]}
-              alt={`${vehicle.brand} ${vehicle.model}`}
-              fill
-              sizes="(min-width: 1024px) 560px, 90vw"
-              className="object-cover"
-              priority
-            />
-          </div>
-          {vehicle.images.length > 1 && (
-            <div className="mt-4 grid grid-cols-3 gap-4">
-              {vehicle.images.slice(1).map((img, i) => (
-                <div
-                  key={i}
-                  className="relative aspect-[4/3] overflow-hidden rounded-xl bg-asphalt-100"
-                >
-                  <Image
-                    src={img}
-                    alt={`${vehicle.brand} ${vehicle.model} — vue ${i + 2}`}
-                    fill
-                    sizes="180px"
-                    className="object-cover"
-                  />
-                </div>
-              ))}
-            </div>
-          )}
-        </div>
+        <VehicleGallery
+          images={vehicle.images}
+          alt={`${vehicle.brand} ${vehicle.model}`}
+        />
 
         <div>
           <div className="flex items-center gap-2">
