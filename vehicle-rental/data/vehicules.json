@@ -9,7 +9,8 @@
     "transmission": "manuelle",
     "available": true,
     "images": [
-      "/images/vehicules/v-001/clio_v.jpg"
+      "/images/vehicules/v-001/clio_v.jpg",
+      "/images/vehicules/v-001/clio_inte.jpg"
       
     ],
     "description": "Citadine compacte et sobre, idéale pour la ville et les trajets courts. Faible consommation et facilité de stationnement.",
