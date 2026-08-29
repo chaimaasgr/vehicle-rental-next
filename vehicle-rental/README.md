@@ -1,4 +1,4 @@
-# AtracioDrive — Maquette de location de véhicules
+# Atracio — Maquette de location de véhicules
 
 Maquette fonctionnelle d'un site de location de véhicules développée avec
 **Next.js 14** (App Router), **TypeScript** et **Tailwind CSS**, avec une

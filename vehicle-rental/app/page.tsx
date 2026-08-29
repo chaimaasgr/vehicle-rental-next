@@ -95,7 +95,7 @@ export default async function HomePage() {
       <section className="bg-mist-100/60 py-20">
         <div className="mx-auto max-w-6xl px-6">
           <p className="font-display text-sm font-semibold uppercase tracking-[0.2em] text-signal-600">
-            Pourquoi AtracioDrive
+            Pourquoi Atracio
           </p>
           <h2 className="mt-2 font-display text-3xl font-bold text-asphalt-900">
             Louer sans friction

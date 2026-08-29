@@ -2,7 +2,7 @@ import { dataProvider } from "@/lib/data-provider";
 import { CatalogueClient } from "./CatalogueClient";
 
 export const metadata = {
-  title: "Catalogue — AtracioDrive",
+  title: "Catalogue — Atracio",
 };
 
 export default async function CataloguePage() {

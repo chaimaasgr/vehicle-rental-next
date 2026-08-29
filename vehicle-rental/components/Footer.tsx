@@ -7,7 +7,7 @@ export function Footer() {
         <div className="grid gap-10 md:grid-cols-3">
           <div>
             <span className="font-display text-lg font-bold text-mist-50">
-              Atracio<span className="text-signal-500">Drive</span>
+              Atracio
             </span>
             <p className="mt-3 max-w-xs text-sm text-mist-200/70">
               Maquette fonctionnelle de location de véhicules, développée
@@ -50,7 +50,7 @@ export function Footer() {
 
         <div className="route-line mt-10 opacity-20" />
         <p className="mt-6 text-xs text-mist-200/50">
-          © {new Date().getFullYear()} AtracioDrive — Maquette de stage,
+          © {new Date().getFullYear()} Atracio — Maquette de stage,
           données fictives.
         </p>
       </div>

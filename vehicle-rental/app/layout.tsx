@@ -4,7 +4,7 @@ import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
 
 export const metadata: Metadata = {
-  title: "AtracioDrive — Location de véhicules",
+  title: "Atracio — Location de véhicules",
   description:
     "Maquette fonctionnelle d'un site de location de véhicules : catalogue, filtres, réservation simulée et calcul automatique du prix.",
 };

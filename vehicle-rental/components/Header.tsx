@@ -6,7 +6,7 @@ export function Header() {
       <div className="mx-auto flex max-w-6xl items-center justify-between px-6 py-4">
         <Link href="/" className="focus-ring flex items-center gap-2 rounded">
           <span className="font-display text-xl font-bold tracking-tight text-asphalt-900">
-            Atracio<span className="text-signal-500">Drive</span>
+            Atracio
           </span>
         </Link>
 
